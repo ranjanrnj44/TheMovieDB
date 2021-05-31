@@ -20,6 +20,7 @@ header{
     position: sticky;
     top: 0px;
     border-bottom: 3px solid goldenrod;
+    z-index: 3;
 }
 header a{
     text-decoration: none;
